@@ -1,0 +1,6 @@
+C:\Users\madfo\source\repos\GameOfLife\GameOfLife\bin\Debug\GameOfLife.dll.config
+C:\Users\madfo\source\repos\GameOfLife\GameOfLife\bin\Debug\GameOfLife.dll
+C:\Users\madfo\source\repos\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\madfo\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojAssemblyReference.cache
+C:\Users\madfo\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.dll
+C:\Users\madfo\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
